@@ -1,0 +1,11 @@
+GEM
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  'jekyll', '~> 4.2'
+
+BUNDLED WITH
+   1.16.1
